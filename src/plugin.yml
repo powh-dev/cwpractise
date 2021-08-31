@@ -1,0 +1,9 @@
+name: CakeWarsPractise
+description: Practise plays for Cake Wars
+version: 1.0.0
+author: powh
+
+main: de.powh.core.Main
+
+commands:
+  practise:
